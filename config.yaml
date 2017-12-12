@@ -1,0 +1,6 @@
+---
+index: /data/zusers/andrewsg/genome/mm10/star/index/
+gtf: /data/zusers/andrewsg/genome/mm10/star/gencode.vM15.annotation.gtf
+path: /data/zusers/andrewsg/chipseq_snakemake/common/
+star: /home/andrewsg/anaconda3/pkgs/star-2.5.3a-0/bin/
+rsem: /data/zusers/andrewsg/genome/mm10/rsem/mm10
